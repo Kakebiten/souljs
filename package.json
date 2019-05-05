@@ -1,0 +1,12 @@
+{
+    "name": "souljs",
+    "title": "SoulJS",
+    "description": "JavaScript library for DOM operations",
+    "version": "1.0.0",
+    "main": "dist/souljs.js",
+    "homepage": "https://soulnetwork.eu",
+    "author": {
+        "name": "JS Foundation and other contributors",
+        "url"
+    }
+}
