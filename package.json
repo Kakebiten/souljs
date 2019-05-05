@@ -4,7 +4,7 @@
     "description": "JavaScript library for DOM operations",
     "version": "1.0.0",
     "main": "dist/souljs.js",
-    "homepage": "https://www.sounetwork.eu",
+    "homepage": "https://www.soulnetwork.eu",
     "author": {
       "name": "JS Foundation and other contributors",
       "url": "https://github.com/Kakebiten/souljs/blob/master/AUTHORS.txt"
